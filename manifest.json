@@ -1,9 +1,0 @@
-{
-  "name": "LightFreight Sim",
-  "short_name": "LF Sim",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#0e1217",
-  "theme_color": "#121826",
-  "icons": []
-}
